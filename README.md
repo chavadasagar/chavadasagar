@@ -1,23 +1,74 @@
-# Sagar Chavada
+# Hi, I’m Sagar Chavda 👋
 
-## Summary
-Highly motivated and detail-oriented professional seeking a challenging career in cloud security. Utilizing strong technical expertise to safeguard sensitive data and implement robust security measures, ensuring the highest level of protection for organizations' cloud-based assets.
+**Software Engineer · .NET Developer · 4 Years Experience**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chavadasagar80) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagarchavada) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chavadasagar80) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC6r2vqMEES6R8zdSdLxKcSw) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/chavadasagar) 
+📍 Surat, Gujarat, India  |  📧 [sagarchavada80@gmail.com](mailto:sagarchavada80@gmail.com)  |  🔗 [LinkedIn](https://linkedin.com/in/sagarchavada)  |  🌐 [Portfolio](https://chavadasagar.github.io/portfolio/)  |  📄 [Resume](https://drive.google.com/file/d/1ZZlupNtbX8L_MPQ3upVPvz_ED0EnvHRW/view?usp=sharing)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chavadasagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chavadasagar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chavadasagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-----
 
----
-[![](https://visitcount.itsvg.in/api?id=chavadasagar&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 About Me
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chavadasagar) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sagar888) 
+Software Engineer with **4 years of experience** building scalable web applications and backend systems. I specialize in **ASP.NET Core**, **RESTful API development**, and **database optimization**.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I’ve worked across diverse domains — legal tech (eDiscovery), healthcare, parking management, and document management — delivering enterprise-grade solutions in Agile/Scrum environments.
+
+Currently working at **Casepoint Pvt. Ltd.** on a cloud-based eDiscovery platform used for litigation, investigations, and compliance at enterprise scale.
+
+-----
+
+## 🛠️ Tech Stack
+
+|Layer                |Technologies                                     |
+|---------------------|-------------------------------------------------|
+|**Backend**          |ASP.NET Core, .NET Core 6.0, ASP.NET MVC, Web API|
+|**Database**         |MS SQL Server, PostgreSQL, Entity Framework Core |
+|**Cloud**            |AWS Lambda, Azure Functions, Azure Logic Apps    |
+|**Messaging & Cache**|RabbitMQ, Redis                                  |
+|**Frontend**         |Angular, JavaScript, jQuery, Bootstrap           |
+|**Tools**            |Git, Jira, CI/CD, TFS (Azure)                    |
+|**Methodology**      |Agile/Scrum, RESTful API Design, Database Design |
+
+-----
+
+## 💼 Featured Projects
+
+### ⚖️ eDiscovery Platform — Casepoint
+
+> Cloud-based legal platform for ESI management, document review, audit tracking, and secure collaboration at enterprise scale.
+
+`ASP.NET MVC` `PostgreSQL` `Redis` `RabbitMQ` `TFS (Azure)`
+
+### 🏥 Caregiver Management System — Shiftware
+
+> Platform for caregiver scheduling, timesheet management, incident tracking, and role-based access for healthcare operations.
+
+`ASP.NET Core 6.0` `Angular` `MS SQL Server` `Entity Framework Core`
+
+### 🅿️ Parking Enforcement System — Roker Enforcement
+
+> Multi-city parking management platform for permits, violations, and patrol operations.
+
+`ASP.NET Core 3.1` `MS SQL Server` `AWS Lambda` `CI/CD`
+
+### 📂 Document Management System
+
+> Centralized platform for organizational document storage, sharing, and role-based access control.
+
+`ASP.NET MVC 4` `MS SQL Server` `jQuery` `Bootstrap`
+
+-----
+
+## 📊 GitHub Stats
+
+![Sagar’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarchavada&show_icons=true&theme=tokyonight)
+
+-----
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**
+Shastri Swami Shree Dharmajivandasji Institute of Information Technology, Junagadh · 2022
+
+-----
+
+> *“Building systems that scale, one commit at a time.”*
