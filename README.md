@@ -2,7 +2,7 @@
 
 **Software Engineer · .NET Developer · 4 Years Experience**
 
-📍 Surat, Gujarat, India  |  📧 [sagarchavada80@gmail.com](mailto:sagarchavada80@gmail.com)  |  🔗 [LinkedIn](https://linkedin.com/in/sagarchavada)  |  🌐 [Portfolio](https://chavadasagar.github.io/portfolio/)  |  📄 [Resume](https://drive.google.com/file/d/1ZZlupNtbX8L_MPQ3upVPvz_ED0EnvHRW/view?usp=sharing)
+📍 Surat, Gujarat, India  |  📧 [sagarchavada80@gmail.com](mailto:sagarchavada80@gmail.com)  |  🔗 [LinkedIn](https://linkedin.com/in/sagarchavada)  |  🌐 [Portfolio](https://chavadasagar.github.io/mysite/portfolio/)  |  📄 [Resume](https://drive.google.com/file/d/1ZZlupNtbX8L_MPQ3upVPvz_ED0EnvHRW/view?usp=sharing)
 
 -----
 
